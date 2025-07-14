@@ -7,7 +7,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Cibersecurity, Costs reduction and process optimization**
+- 🌱 I’m currently learning **Cybersecurity, Costs reduction and process optimization**
 
 - 📫 How to reach me **waleczki.andre@gmail.com**
 
